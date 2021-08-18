@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @san-13
 - 👀 I’m interested in developing something new
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently learning App Development with Kotlin
+- 💞️ I’m looking to collaborate on App development projects
 - 📫 How to reach me ...email me.
 
 <!---
