@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @san-13
-- 👀 I’m interested in developing something new
-- 🌱 I’m currently learning App Development with Kotlin
-- 💞️ I’m looking to collaborate on App development projects
-- 📫 How to reach me ...email me.
 
 <!---
 san-13/san-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
